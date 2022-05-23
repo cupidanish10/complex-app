@@ -1,0 +1,9 @@
+{
+    “emmet.triggerExpansionOnTab”: true,
+    “files.associations”: {“*html”: “html”},
+    "editor.formatOnSave": true
+    
+}
+// {
+//     "html.format.contentUnformatted": ""
+// }
